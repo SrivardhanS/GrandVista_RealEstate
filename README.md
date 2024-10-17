@@ -1,4 +1,4 @@
 # UrbanDwell_RealEstate
 
 
-Master Branch contains the Code... waiting for minor tweaks.
+Master Branch contains the Code ... minor tweaks will be done shortly : )
